@@ -1,0 +1,27 @@
+ul {
+  list-style-type : none;
+  margin : 0px;
+  padding : 0px;
+  width : 275px;
+}
+
+.task-ctrl {
+  margin : 0px 5px;
+}
+
+.task-li {
+  width : 100%;
+}
+
+.task-span {
+  display : inline-block;
+  width : 175px;
+}
+
+#add-task-form {
+  display : none;
+}
+
+#tasks-div {
+  margin-bottom : 10px;
+}
